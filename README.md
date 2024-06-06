@@ -1,1 +1,1 @@
-# brain_tapping
+# Tapping test for raspberryPi (change RPIRUN for run on windows/linux)
