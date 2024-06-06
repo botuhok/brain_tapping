@@ -1,1 +1,9 @@
-# Tapping test for raspberryPi (change RPIRUN for run on windows/linux)
+# Теппинг тест по методике Ильина
+Изначально создавался для raspberryPi4. Для работы светодиодов на кнопках изменить переменную RPIRUN в файле tapping.py на True.
+
+Зависимости:
+gpiozero (для работы с raspberry)
+matplotlib (вывод финальных графиков)
+pillow (масштабирование изображений)
+vlc (проигрывание трека непосредственно во время теста)
+
